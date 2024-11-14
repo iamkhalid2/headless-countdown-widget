@@ -1,4 +1,4 @@
-# A headless countdown timer widget made with Flutter.
+# Headless countdown timer widget.
 
 ## Description
 
