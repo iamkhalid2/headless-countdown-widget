@@ -1,16 +1,9 @@
-# countdown
+# A headless countdown timer widget made with Flutter.
 
-A new Flutter project.
+## Description
+
+A headless countdown timer widget is a type of widget that operates without a traditional app interface. Instead of opening an app to interact with the timer, users can control and edit the countdown directly from their Android homescreen. This makes it convenient for quick access and adjustments, providing a seamless user experience. The widget can be customized to change the target time.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Download the apk from the release section and install it on your Android device. Add the widget to your homescreen and the countdown starts. You can edit the target time by tapping on the widget.
